@@ -10,13 +10,12 @@
 </a>  
 </div> 
 
-### <div align="center">I am ❝𝐜𝐨𝐩𝐲𝐩𝐚𝐬𝐭𝐞❞. I'm just a simple guy who likes to share computer tips and tricks. ❝𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐰𝐨𝐫𝐥𝐝❞</div>  
-- 🧠 Braindead  
-- 💔 Heartbroken  
-- 🖥️ Hackintoshers  
-- 🧪 Testers  
+### <div align="center">❝𝐜𝐨𝐩𝐲𝐩𝐚𝐬𝐭𝐞❞</div>
+<div align="center">I'm just a simple guy who likes to share computer tips and tricks.</div> 
+<div align="center">❝𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐰𝐨𝐫𝐥𝐝❞</div> 
 
-## Github Stats  
+<div align="center">🧠 Braindead  💔 Heartbroken  🖥️ Hackintoshers  🧪 Testers</div>  
+<br>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=theofficialcopypaste&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <div align="center">
