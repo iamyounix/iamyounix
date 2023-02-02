@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Digital_rain_banner.gif" align="center" style="width: 100%" />
+<img src="https://github.com/theofficialcopypaste/theofficialcopypaste/blob/main/profile/4lowthewhiterabbit.gif" />
 </div>   
 <div align="center">
 <a href="https://github.com/theofficialcopypaste" target="_blank">
