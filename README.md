@@ -14,7 +14,7 @@
 <div align="center">I'm just a simple guy who likes to share computer tips and tricks.</div> 
 <div align="center">❝𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐰𝐨𝐫𝐥𝐝❞</div> 
 
-<div align="center">🧠 Braindead  💔 Heartbroken  🖥️ Hackintoshers  🧪 Testers</div>  
+<div align="center">🏹 Arch User  🖥️ Hackintoshers 🧠 Braindead  🦄 Unixporn</div>  
 <br>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=theofficialcopypaste&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
