@@ -1,5 +1,4 @@
 <div align="center">
-<img height="20"src="https://img.icons8.com/color/452/graphql.png">
 </div>   
 <div align="center">
 <a href="https://github.com/theofficialcopypaste" target="_blank">
