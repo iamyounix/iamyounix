@@ -7,7 +7,7 @@
 </div> 
 <div align="center">𝘆𝗼𝘂𝗻𝗶𝘅</div>
 <div align="center">I'm just a simple guy who likes to share computer tips and tricks.</div> 
-<div align="center">❝𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐰𝐨𝐫𝐥𝐝❞</div> 
+<div align="center">𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝗺𝘆 𝘄𝗼𝗿𝗹𝗱</div> 
 
 <div align="center">🏹 Arch User  🖥️ Hackintoshers 🧠 Braindead  🦄 Unixporn</div>  
 
