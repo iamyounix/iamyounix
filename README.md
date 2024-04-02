@@ -11,6 +11,4 @@
 
 <div align="center">
   
-![github contribution grid snake animation](https://raw.githubusercontent.com/m9rco/m9rco/output/github-contribution-grid-snake.svg)
-  
 </div>  
