@@ -1,14 +1,14 @@
 <div align="center">
-</div>   
-<div align="center">
-<a href="https://github.com/iamyounix" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-</div> 
-<div align="center">Hi, call me 𝘆𝗼𝘂𝗻𝗶𝘅</div>
-<div align="center">𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝗺𝘆 𝘄𝗼𝗿𝗹𝗱</div> 
-<div align="center">🏹 Arch User  🖥️ Hackintoshers 🧠 Braindead  🦄 Unixporn</div>  
+  <h1>Hi, call me <em>𝘆𝗼𝘂𝗻𝗶𝘅</em> 👋</h1>
+</div>
 
 <div align="center">
-  
-</div>  
+  <img src="https://img.shields.io/badge/Arch-Linux-%23A5C9E9?style=for-the-badge&logo=arch-linux&logoColor=black" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/Apple-Hackintosh-%23A2AAAD?style=for-the-badge&logo=apple" alt="Hackintosh" />
+  <img src="https://img.shields.io/badge/Terminal-Bash-%236A3A3A?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/VS_Code-Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=visual-studio-code" alt="VS Code" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamyounix&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" />
+</div>
